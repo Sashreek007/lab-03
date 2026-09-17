@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Sashreek Addanki`
+- **CCID:** `1852232`
 
 ## References and Resources
 
