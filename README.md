@@ -7,7 +7,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Claude chat was used for help related to jetpack compose syntax and features like LaunchedEffect.
 
 ## Verbal Collaboration
 
